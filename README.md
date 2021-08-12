@@ -1,2 +1,3 @@
 # lean_rankings
-bad statistics live here
+
+Practicing statistics while assessing the types of instant foods I eat.
